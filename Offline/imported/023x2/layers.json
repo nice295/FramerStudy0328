@@ -1,0 +1,250 @@
+[
+	{
+		"id": 305,
+		"name": "screens",
+		"layerFrame": {
+			"x": 0,
+			"y": 0,
+			"width": 1500,
+			"height": 1334
+		},
+		"maskFrame": null,
+		"image": null,
+		"imageType": null,
+		"children": [
+			{
+				"id": 280,
+				"name": "intro1",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1500,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 272,
+						"name": "title",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/title.png",
+							"frame": {
+								"x": 91,
+								"y": 772,
+								"width": 572,
+								"height": 105
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "776507185"
+					},
+					{
+						"id": 274,
+						"name": "indicator1",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/indicator1.png",
+							"frame": {
+								"x": 336,
+								"y": 1270,
+								"width": 80,
+								"height": 28
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "777371156"
+					},
+					{
+						"id": 276,
+						"name": "clouds",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/clouds.png",
+							"frame": {
+								"x": 10,
+								"y": 416,
+								"width": 740,
+								"height": 204
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "778383866"
+					},
+					{
+						"id": 278,
+						"name": "bg_01",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/bg_01.png",
+							"frame": {
+								"x": 0,
+								"y": 0,
+								"width": 750,
+								"height": 1334
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "1995165774"
+					}
+				],
+				"modification": "1084339416"
+			},
+			{
+				"id": 300,
+				"name": "intro2",
+				"layerFrame": {
+					"x": 0,
+					"y": 0,
+					"width": 1500,
+					"height": 1334
+				},
+				"maskFrame": null,
+				"image": null,
+				"imageType": null,
+				"children": [
+					{
+						"id": 290,
+						"name": "music",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/music.png",
+							"frame": {
+								"x": 1270,
+								"y": 188,
+								"width": 160,
+								"height": 160
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "782912374"
+					},
+					{
+						"id": 298,
+						"name": "indicator2",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/indicator2.png",
+							"frame": {
+								"x": 1088,
+								"y": 1274,
+								"width": 78,
+								"height": 24
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "783716704"
+					},
+					{
+						"id": 294,
+						"name": "title_02",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/title_02.png",
+							"frame": {
+								"x": 849,
+								"y": 774,
+								"width": 557,
+								"height": 149
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "804093589"
+					},
+					{
+						"id": 303,
+						"name": "bg_02",
+						"layerFrame": {
+							"x": 0,
+							"y": 0,
+							"width": 1500,
+							"height": 1334
+						},
+						"maskFrame": null,
+						"image": {
+							"path": "images/bg_02.png",
+							"frame": {
+								"x": 750,
+								"y": 0,
+								"width": 750,
+								"height": 1334
+							}
+						},
+						"imageType": "png",
+						"children": [
+							
+						],
+						"modification": "806893976"
+					}
+				],
+				"modification": "1181298844"
+			}
+		],
+		"modification": "1212645660"
+	}
+]
